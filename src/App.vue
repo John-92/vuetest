@@ -4,7 +4,7 @@
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import HelloWorld from './components/HelloWorld.vue' //导入单个Vue文件
 
 export default {
   name: 'App',
@@ -12,6 +12,7 @@ export default {
     HelloWorld
   }
 }
+
 </script>
 
 <style>
